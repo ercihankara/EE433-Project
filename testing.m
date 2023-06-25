@@ -1,0 +1,1 @@
+[detection_chirp, duration_est, freqs, ampl_est, bandwidth_est, rate_freq] = pther(chirpp, 0, 1000);

@@ -1,0 +1,1 @@
+[ampl_est, bandwidth_est, rate_freq] = compact_est(chirpp, [100, 2000], 5);

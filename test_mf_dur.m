@@ -1,0 +1,1 @@
+[duration_est, detection_chirp] = mf_app_dur(chirpp, 100, 2000);
